@@ -1,0 +1,291 @@
+Angry
+adj
+Tức giận
+Beautiful
+adj
+Xinh đẹp
+Brave
+adj
+Dũng cảm
+Busy
+adj
+Bận rộn
+Calm
+adj
+Bình tĩnh
+Careful
+adj
+Cẩn thận
+Careless
+adj
+Bất cẩn
+Cheap
+adj
+Rẻ
+Clever
+adj
+Thông minh
+Clean
+adj
+Sạch
+Cloudy
+adj
+Có mây
+Cold
+adj
+Lạnh
+Confident
+adj
+Tự tin
+Cool
+adj
+Ngầu
+Crazy
+adj
+Điên
+Curious
+adj
+Tò mò
+Dangerous
+adj
+Nguy hiểm
+Dark
+adj
+Tối
+Delicious
+adj
+Ngon
+Difficult
+adj
+Khó khăn
+Dirty
+adj
+Bẩn
+Easy
+adj
+Dễ
+Empty
+adj
+Trống rỗng
+Expensive
+adj
+Đắt
+Fast
+adj
+Nhanh
+Fat
+adj
+Mập
+Friendly
+adj
+Thân thiện
+Funny
+adj
+Hài hước
+Generous
+adj
+Hào phóng
+Gentle
+adj
+Hiền lành
+Good
+adj
+Tốt
+Great
+adj
+Tuyệt vời
+Happy
+adj
+Hạnh phúc
+Hard
+adj
+Cứng
+Hard-working
+adj
+Chăm chỉ
+Healthy
+adj
+Khỏe mạnh
+Heavy
+adj
+Nặng
+Helpful
+adj
+Hữu ích
+High
+adj
+Cao
+Honest
+adj
+Trung thực
+Hot
+adj
+Nóng
+Hungry
+adj
+Đói
+Important
+adj
+Quan trọng
+Interesting
+adj
+Thú vị
+Kind
+adj
+Tốt bụng
+Large
+adj
+Lớn
+Late
+adj
+Muộn
+Lazy
+adj
+Lười biếng
+Light
+adj
+Nhẹ
+Lonely
+adj
+Cô đơn
+Long
+adj
+Dài
+Loud
+adj
+To tiếng
+Low
+adj
+Thấp
+Lucky
+adj
+May mắn
+Mean
+adj
+Ác độc
+Modern
+adj
+Hiện đại
+Narrow
+adj
+Hẹp
+Neat
+adj
+Gọn gàng
+New
+adj
+Mới
+Nice
+adj
+Dễ thương
+Noisy
+adj
+Ồn ào
+Old
+adj
+Cũ
+Polite
+adj
+Lịch sự
+Poor
+adj
+Nghèo
+Powerful
+adj
+Mạnh mẽ
+Proud
+adj
+Tự hào
+Quick
+adj
+Nhanh
+Quiet
+adj
+Yên tĩnh
+Rich
+adj
+Giàu
+Rude
+adj
+Thô lỗ
+Sad
+adj
+Buồn
+Safe
+adj
+An toàn
+Scared
+adj
+Sợ hãi
+Serious
+adj
+Nghiêm túc
+Short
+adj
+Ngắn
+Shy
+adj
+Nhút nhát
+Sick
+adj
+Bệnh
+Simple
+adj
+Đơn giản
+Slow
+adj
+Chậm
+Small
+adj
+Nhỏ
+Smart
+adj
+Thông minh
+Soft
+adj
+Mềm
+Strong
+adj
+Khỏe
+Stupid
+adj
+Ngu ngốc
+Tall
+adj
+Cao
+Thin
+adj
+Gầy
+Thirsty
+adj
+Khát
+Tired
+adj
+Mệt
+Ugly
+adj
+Xấu xí
+Unhappy
+adj
+Không vui
+Unlucky
+adj
+Xui xẻo
+Warm
+adj
+Ấm áp
+Weak
+adj
+Yếu
+Wet
+adj
+Ướt
+Wide
+adj
+Rộng
+Wonderful
+adj
+Tuyệt vời
+Young
+adj
+Trẻ
